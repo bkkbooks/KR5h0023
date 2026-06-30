@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5h0023/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5h0023/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 靈寶施食法
+  date: '2015-08-29 03:02:51.559438'
+  source:
+    repository: kanripo
+    path: KR5h0023
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0023_000-ZTDZ.yaml, hash: 'sha256:c7a3514ab4288cc1e563dc0c9b6ae65c5a0c18b9be5ef0adbb804aaad0841cb8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5h0023_000-ZTDZ.markers.yaml, hash: 'sha256:a2275b725ef5cd0c6cdaca9ba78fcd23808d8124f3737fad51a62c43d63bac4e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5h0023_SJB_000-340772b
+    span:
+    - body
+    - 0
+    - 1228
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:9175903d2adc4575be9391fc6a5872f93f4c889dcedffb8d9858e2be06676775
